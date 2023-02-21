@@ -1,0 +1,312 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Lexend:wght@200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v17/wlptgwvFAVdoq2_F94zlCfv0bz1WC-UR_LA.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\lexend\v17\wlptgwvFAVdoq2_F94zlCfv0bz1WC-UR_LA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v17/wlptgwvFAVdoq2_F94zlCfv0bz1WC2UW_LA.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\lexend\v17\wlptgwvFAVdoq2_F94zlCfv0bz1WC2UW_LA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v17/wlptgwvFAVdoq2_F94zlCfv0bz1WC5IR_LA.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\lexend\v17\wlptgwvFAVdoq2_F94zlCfv0bz1WC5IR_LA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v17/wlptgwvFAVdoq2_F94zlCfv0bz1WC7sR_LA.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\lexend\v17\wlptgwvFAVdoq2_F94zlCfv0bz1WC7sR_LA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v17/wlptgwvFAVdoq2_F94zlCfv0bz1WC7sW_LA.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\lexend\v17\wlptgwvFAVdoq2_F94zlCfv0bz1WC7sW_LA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v17/wlptgwvFAVdoq2_F94zlCfv0bz1WC9wR_LA.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\lexend\v17\wlptgwvFAVdoq2_F94zlCfv0bz1WC9wR_LA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v17/wlptgwvFAVdoq2_F94zlCfv0bz1WCwkW_LA.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\lexend\v17\wlptgwvFAVdoq2_F94zlCfv0bz1WCwkW_LA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v17/wlptgwvFAVdoq2_F94zlCfv0bz1WCzsW_LA.ttf
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\s\lexend\v17\wlptgwvFAVdoq2_F94zlCfv0bz1WCzsW_LA.ttf
+Content Type: font/ttf
+
+Uri: https://go-tailwind.preview.uideck.com/
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\index.htm
+Content Type: text/html
+
+Uri: https://go-tailwind.preview.uideck.com/404
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\404.html
+Content Type: text/html
+
+Uri: https://go-tailwind.preview.uideck.com/blog-details
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\blog-details.html
+Content Type: text/html
+
+Uri: https://go-tailwind.preview.uideck.com/blog-grids
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\blog-grids.html
+Content Type: text/html
+
+Uri: https://go-tailwind.preview.uideck.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://go-tailwind.preview.uideck.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://go-tailwind.preview.uideck.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://go-tailwind.preview.uideck.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://go-tailwind.preview.uideck.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://go-tailwind.preview.uideck.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://go-tailwind.preview.uideck.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://go-tailwind.preview.uideck.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://go-tailwind.preview.uideck.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://go-tailwind.preview.uideck.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://go-tailwind.preview.uideck.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://go-tailwind.preview.uideck.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://go-tailwind.preview.uideck.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://go-tailwind.preview.uideck.com/css/animate.css
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\css\animate.css
+Content Type: text/css
+
+Uri: https://go-tailwind.preview.uideck.com/css/tailwind.css
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\css\tailwind.css
+Content Type: text/css
+
+Uri: https://go-tailwind.preview.uideck.com/css/tiny-slider.css
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\css\tiny-slider.css
+Content Type: text/css
+
+Uri: https://go-tailwind.preview.uideck.com/images/about/image-1.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\about\image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/about/image-2.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\about\image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/blog/author.png
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\blog\author.png
+Content Type: image/png
+
+Uri: https://go-tailwind.preview.uideck.com/images/blog/blog-details-2.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\blog\blog-details-2.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/blog/blog-details.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\blog\blog-details.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/blog/image-1.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\blog\image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/blog/image-2.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\blog\image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/blog/image-3.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\blog\image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/blog/NoisePatern.svg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\blog\NoisePatern.svg
+Content Type: image/svg+xml
+
+Uri: https://go-tailwind.preview.uideck.com/images/brands/ayroui-2.svg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\brands\ayroui-2.svg
+Content Type: image/svg+xml
+
+Uri: https://go-tailwind.preview.uideck.com/images/brands/ayroui.svg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\brands\ayroui.svg
+Content Type: image/svg+xml
+
+Uri: https://go-tailwind.preview.uideck.com/images/brands/graygrids-2.svg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\brands\graygrids-2.svg
+Content Type: image/svg+xml
+
+Uri: https://go-tailwind.preview.uideck.com/images/brands/graygrids.svg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\brands\graygrids.svg
+Content Type: image/svg+xml
+
+Uri: https://go-tailwind.preview.uideck.com/images/brands/lineicons-2.svg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\brands\lineicons-2.svg
+Content Type: image/svg+xml
+
+Uri: https://go-tailwind.preview.uideck.com/images/brands/lineicons.svg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\brands\lineicons.svg
+Content Type: image/svg+xml
+
+Uri: https://go-tailwind.preview.uideck.com/images/brands/plainadmin-2.svg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\brands\plainadmin-2.svg
+Content Type: image/svg+xml
+
+Uri: https://go-tailwind.preview.uideck.com/images/brands/plainadmin.svg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\brands\plainadmin.svg
+Content Type: image/svg+xml
+
+Uri: https://go-tailwind.preview.uideck.com/images/brands/uideck-2.svg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\brands\uideck-2.svg
+Content Type: image/svg+xml
+
+Uri: https://go-tailwind.preview.uideck.com/images/brands/uideck.svg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\brands\uideck.svg
+Content Type: image/svg+xml
+
+Uri: https://go-tailwind.preview.uideck.com/images/favicon.png
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://go-tailwind.preview.uideck.com/images/hero/image-1.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\hero\image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/hero/image-2.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\hero\image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/logo/logo-dark.svg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\logo\logo-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://go-tailwind.preview.uideck.com/images/logo/logo-light.svg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\logo\logo-light.svg
+Content Type: image/svg+xml
+
+Uri: https://go-tailwind.preview.uideck.com/images/NoisePattern.svg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\NoisePattern.svg
+Content Type: image/svg+xml
+
+Uri: https://go-tailwind.preview.uideck.com/images/portfolio/image-1.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\portfolio\image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/portfolio/image-2.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\portfolio\image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/portfolio/image-3.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\portfolio\image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/portfolio/image-4.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\portfolio\image-4.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/team/image-1.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\team\image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/team/image-2.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\team\image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/team/image-3.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\team\image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/images/testimonial/image-1.jpg
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\images\testimonial\image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://go-tailwind.preview.uideck.com/js/isotope.min.js
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\js\isotope.min.js
+Content Type: application/javascript
+
+Uri: https://go-tailwind.preview.uideck.com/js/main.js
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://go-tailwind.preview.uideck.com/js/tiny-slider.js
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\js\tiny-slider.js
+Content Type: application/javascript
+
+Uri: https://go-tailwind.preview.uideck.com/js/typewriter.js
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\js\typewriter.js
+Content Type: application/javascript
+
+Uri: https://go-tailwind.preview.uideck.com/js/wow.min.js
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://go-tailwind.preview.uideck.com/signin
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\signin.html
+Content Type: text/html
+
+Uri: https://go-tailwind.preview.uideck.com/signup
+File Name: C:\Downloaded Web Sites\go-tailwind.preview.uideck.com\signup.html
+Content Type: text/html
+
